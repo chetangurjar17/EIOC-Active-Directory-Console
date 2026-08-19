@@ -7,7 +7,8 @@ An all-in-one GUI Command Center built by a 10+ year veteran System Administrato
 
 ## 🖥️ Console Overview
 
-[<img width="1024" height="640" alt="image" src="https://github.com/user-attachments/assets/ec601689-dc6d-4a2d-bbdb-94aaa7a89f90" />](https://github.com/chetangurjar17/EIOC-Active-Directory-Console/blob/main/EIOC-Console-v2.0.exe)
+<img width="2612" height="1632" alt="AD Tool" src="https://github.com/user-attachments/assets/2466cdb9-a2e4-43a8-af1c-246dc1be7d3d" />
+(https://github.com/chetangurjar17/EIOC-Active-Directory-Console/blob/main/EIOC-Console-v2.0.exe)
 
 
 ---
